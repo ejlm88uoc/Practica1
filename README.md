@@ -1,6 +1,6 @@
 # Práctica 1 de tipología y ciencia de los datos.
 
-Autor Emilio José Lucas Marcos
+Autor: Emilio José Lucas Marcos
 
 ## Ficheros
 
